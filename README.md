@@ -9,4 +9,10 @@ program ini juga di buat sebagai tugas uas.
 Cara menjalankan Program : 
 
 - Download folder lalu extract
-- Setelah itu buka di text editor dan jalakan melalui terminal dengan mengetikan 
+- Setelah itu buka di text editor dan jalakan melalui terminal dengan mengetikan `python.py`
+
+### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
+
+[Modul Program Nilai Mahasiswa.pdf](https://github.com/Rayiden20/project-uas16/files/10370971/Modul.Program.Nilai.Mahasiswa.pdf)
+
+[google drive](https://drive.google.com/drive/folders/109YyhXo-Ueau15iLBfXyia57-Pc37iii).
