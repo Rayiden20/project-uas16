@@ -15,7 +15,7 @@ Cara menjalankan Program :
 
 [Modul Program Nilai Mahasiswa.pdf](https://github.com/Rayiden20/project-uas16/files/10370971/Modul.Program.Nilai.Mahasiswa.pdf)
 
-[google drive](https://drive.google.com/drive/folders/109YyhXo-Ueau15iLBfXyia57-Pc37iii).
+[Google Drive](https://drive.google.com/open?id=1MHRPEJGVjAsbjXQSwRrm3UgMPqwg7mtK&authuser=prmanaputra75%40gmail.com&usp=drive_fs).
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
